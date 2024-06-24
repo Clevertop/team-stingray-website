@@ -31,3 +31,46 @@ body {
     text-wrap: balance;
   }
 }
+
+
+/*  Tech Fest Landing Page Styles */
+.landing-div{
+  padding: 10%;
+  align-items: center;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.landing-heading{
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.landing-subheading{
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.landing-card{
+  background-color: rgb(132, 0, 184);
+  
+  padding: 10px;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.landing-card:hover { 
+  background-color: rgb(200, 0, 207);
+}
+
+.image-card{
+  overflow: hidden;
+  border-radius: 10px;
+  align-items: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
