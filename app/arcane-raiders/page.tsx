@@ -26,6 +26,15 @@ export default async function ArcaneRaiders() {
                     <p>Play the game now!</p>
                 </div>
             </a>
+
+            <br></br>
+
+            <a href="https://discord.gg/3BPYMHqNve">
+                <div className="landing-card" >
+                    <h2 className="landing-subheading">Discord</h2>
+                    <p>Chat with the devs and get exclusive updates!</p>
+                </div>
+            </a>
             
         </div>
     )
