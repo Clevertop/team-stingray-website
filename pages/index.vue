@@ -178,7 +178,7 @@ useSeoMeta({
     body{
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
-        margin-top: 10%;
+        margin-top: 1cm;
     }
 
 
