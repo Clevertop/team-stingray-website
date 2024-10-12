@@ -41,7 +41,7 @@ useSeoMeta({
             href="https://www.linkedin.com/in/lauren-szmandiuk-00b018257/"
             name="Lauren Szmandiuk"
             description="description goes here"
-            image="https://media.licdn.com/dms/image/v2/D5603AQEED9j4C5Xrsw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1688623939822?e=1732752000&v=beta&t=scVc9nsc8FzuriHIJewbjcv8ADbytgLZveEuOyWGSg4"
+            image="https://media.licdn.com/dms/image/v2/D4D03AQGyN-a5u4sIYA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728024699904?e=1733961600&v=beta&t=L1M6z1DuHd0DTHawatXkrdshcqb_0TgxBH7TWDx5VdM"
         />
         <MemberCard 
             href="https://tabbycat.dev"
