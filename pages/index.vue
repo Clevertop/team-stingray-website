@@ -40,7 +40,7 @@ useSeoMeta({
         <MemberCard 
             href="https://www.linkedin.com/in/lauren-szmandiuk-00b018257/"
             name="Lauren Szmandiuk"
-            description="Lauren Szmandiuk is a final year student studying Games Development at the University of Technology Sydney (UTS). She has played a key role in the development of award-winning student games including EchoRush (UTS Tech Fest Games Showcase 2023: Peoples Choice Award & Best Game for Game Design Methodologies, SXSW Sydney 2023 Best Student Game) and Arcane Raiders (UTS Tech Fest Games Showcase 2024: Best Game for Game Design Studio 1). Lauren is passionate about creating art and has been refining her skills for over a decade"
+            description="I specialise in creating art and animations! I'm the art director for most of our projects."
             image="https://media.licdn.com/dms/image/v2/D4D03AQGyN-a5u4sIYA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728024699904?e=1733961600&v=beta&t=L1M6z1DuHd0DTHawatXkrdshcqb_0TgxBH7TWDx5VdM"
         />
         <MemberCard 
