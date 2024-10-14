@@ -40,7 +40,7 @@ useSeoMeta({
         <MemberCard 
             href="https://www.linkedin.com/in/lauren-szmandiuk-00b018257/"
             name="Lauren Szmandiuk"
-            description="description goes here"
+            description="Lauren Szmandiuk is a final year student studying Games Development at the University of Technology Sydney (UTS). She has played a key role in the development of award-winning student games including EchoRush (UTS Tech Fest Games Showcase 2023: Peoples Choice Award & Best Game for Game Design Methodologies, SXSW Sydney 2023 Best Student Game) and Arcane Raiders (UTS Tech Fest Games Showcase 2024: Best Game for Game Design Studio 1). Lauren is passionate about creating art and has been refining her skills for over a decade"
             image="https://media.licdn.com/dms/image/v2/D4D03AQGyN-a5u4sIYA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728024699904?e=1733961600&v=beta&t=L1M6z1DuHd0DTHawatXkrdshcqb_0TgxBH7TWDx5VdM"
         />
         <MemberCard 
@@ -52,7 +52,7 @@ useSeoMeta({
         <MemberCard 
             href="https://www.linkedin.com/in/ethan-lucas/"
             name="Ethan Lucas"
-            description="description goes here"
+            description="Hello! My name is Ethan and I am a full-time Bachelor of Games Development student at the University of Technology Sydney. As a part of this degree, I have created various projects that prove knowledge in the field of game design and software usability. I have a great interest in digital entertainment media and being a part of successful teams."
             image="https://media.licdn.com/dms/image/v2/D5603AQHXZ1L6sl_H7w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1685689887007?e=1732752000&v=beta&t=Cbm2hZZz_HFgM8koLsBWxxzRHqQoXuVn_n31KfTaMQo"
         />
         <MemberCard 
@@ -65,7 +65,7 @@ useSeoMeta({
             href="https://www.linkedin.com/in/alex-valacos-326490256/"
             name="Alex Valacos"
             description="description goes here"
-            image="https://cdn.discordapp.com/avatars/323694221020233728/8cdc0e0d8db628636b9f919b1dcbffa0?size=1024"
+            image="https://gcdnb.pbrd.co/images/UejP87iXl0b3.png?o=1"
         />
     </div>
     <!-- flexbox of team member cards -->
@@ -82,7 +82,7 @@ useSeoMeta({
       />
 
       <ProjectCard 
-        src="https://img.itch.zone/aW1nLzE3NzI0MzM2LmpwZw==/315x250%23c/OuyEVu.jpg" 
+        src="https://img.itch.zone/aW1nLzE3OTA5NTU5LnBuZw==/315x250%23c/ZkyOB8.png" 
         href="https://clevertop.itch.io/modline-drift"
         heading="Modline Drift"
         description="Work in progress racing game where you upgrade your car while you race!"
